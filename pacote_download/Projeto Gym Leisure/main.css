@@ -1,0 +1,84 @@
+* {
+    border-radius: 20%;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #0c2f3f;
+}
+
+body {
+    background-color: rgb(20, 20, 55);
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: red;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+nav {
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+footer {
+    background-color: red;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.academia {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.academy {
+    background-image: url(space.jpg);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.fundo {
+    background-color: red;
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 250px;
+    width: 250px;
+}
+
+.light-theme {
+    background-color: greenyellow;
+    color: black;
+}
+
+.dark-theme {
+    background-color: black;
+    color: greenyellow;
+}
+
+.btn {
+    background-color: red;
+    color: black;
+    font-size: 50px;
+}
+
+.btnn {
+    color: black;
+    background-color: red;
+    font-size: 75px;
+}
